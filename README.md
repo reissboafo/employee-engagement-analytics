@@ -1,6 +1,5 @@
-
 # Employee Engagement Analytics Dashboard
-
+https://github.com/reissboafo/employee-engagement-analytics.git/images/correlation.png
 ## Overview
 
 Employee Engagement Analytics is a comprehensive dashboard for HR professionals to visualize, analyze, and gain actionable insights from employee data. The dashboard leverages Python, Dash, and Plotly to deliver interactive charts and advanced analytics, supporting data-driven decisions in workforce management.
