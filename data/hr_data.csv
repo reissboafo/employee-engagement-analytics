@@ -1,0 +1,6 @@
+EmployeeID,Name,Age,Gender,Department,Salary,HireDate,Status,LeaveDays,Performance,Resigned
+1001,John Doe,35,Male,IT,95000,2015-03-01,Active,12,4,No
+1002,Jane Smith,28,Female,HR,65000,2018-06-12,Resigned,18,3,Yes
+1003,Ahmed Khan,41,Male,Finance,87000,2012-09-15,Active,10,5,No
+1004,Maria Chen,30,Female,Marketing,72000,2019-11-05,Active,14,4,No
+1005,Samuel Lee,45,Male,IT,98000,2010-01-20,Resigned,20,2,Yes
